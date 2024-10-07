@@ -1,6 +1,6 @@
 ### We are working on Documentation
 
-| Syntax | Description |
+| RollNo  | Name |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| 10 | Bala |
+| 20 | Krishna |
